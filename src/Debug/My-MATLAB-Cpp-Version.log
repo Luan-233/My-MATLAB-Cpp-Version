@@ -1,0 +1,6 @@
+﻿  Error.cpp
+  Main.cpp
+  Matrix.cpp
+  正在生成代码...
+D:\Code Data\My-MATLAB-Cpp-Version\Matrix.cpp(239): warning C4715: “Matrix::operator^”: 不是所有的控件路径都返回值
+  My-MATLAB-Cpp-Version.vcxproj -> D:\Code Data\My-MATLAB-Cpp-Version\Debug\My-MATLAB-Cpp-Version.exe
